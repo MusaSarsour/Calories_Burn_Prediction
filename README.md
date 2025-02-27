@@ -1,7 +1,7 @@
 # 🔥 Calories Burned Prediction
 
 ## 🚀 Overview
-This project predicts the number of calories burned based on **age, weight, height, and gender**. It is built using **Streamlit** for the UI and **machine learning models** for predictions.
+This project predicts the number of calories burned based on **age, weight, height, Duration, Heart rate, Body temperature, and gender**. It is built using **Streamlit** for the UI and **machine learning models** for predictions.
 
 ## 📌 Features
 - 🌟 **User-friendly UI** with Streamlit  
